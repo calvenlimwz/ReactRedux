@@ -22,7 +22,7 @@
     "cookie-session": "^2.0.0-beta.3",
     "express": "^4.16.4",
     "heroku-ssl-redirect": "0.0.4",
-    "jquery": "^3.3.1",
+    "jquery": "^3.4.0",
     "moment": "^2.24.0",
     "mongoose": "^5.4.8",
     "nodemon": "^1.18.9",
